@@ -68,7 +68,6 @@ typedef struct {
 #else
 static totp_t credentials[] = {
     CREDENTIAL(2F, "JBSWY3DPEHPK3PXP", SHA1, 30),
-    CREDENTIAL(AAC, "JBSWY3DPEHPK3PXP", SHA1, 30),
 };
 #endif
 
